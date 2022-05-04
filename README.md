@@ -1,2 +1,2 @@
-# GapMinder_LinearRegression
+# WorldBankApi_LinearRegression
 Linear Regression Exercise with Python
